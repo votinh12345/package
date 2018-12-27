@@ -1,0 +1,20 @@
+{
+  "name": "simple-scrollspy",
+  "version": "1.0.0",
+  "description": "ScrollSpy effect for website",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/votinh12345/package.git"
+  },
+  "keywords": [
+    "ScrollSpy",
+    "Javascript",
+    "umd"
+  ],
+  "author": "nguyenvanhienbk2006",
+  "license": "MIT"
+}
